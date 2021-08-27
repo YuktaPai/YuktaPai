@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YuktaPai
 - 👀 I’m interested in Data Scientist and related roles
 - 🌱 I’m currently learning Data Science and Data Analysis at ExcelR, Bangalore
-- 💞️ I’m looking to collaborate on Data Science projects, especially in Finance
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me paiyukta2000@gmail.com
 
 <!---
